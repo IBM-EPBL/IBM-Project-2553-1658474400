@@ -3,6 +3,9 @@ Analytics For Hospitals' Health-Care Data
 
 ![image](https://user-images.githubusercontent.com/82984119/193977794-762c3653-43d0-490b-94ab-4e641cf42e13.png)
 
+![image](https://user-images.githubusercontent.com/82984119/193978067-3dce4e88-56ef-4169-a6f0-231419c6fff0.png) INTRODUCTION:
+
+
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
 
 This parameter helps hospitals to identify patients of high LOS-risk (patients who will stay longer) at the time of admission. Once identified, patients with high LOS risk can have their treatment plan optimized to minimize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.
