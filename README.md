@@ -18,7 +18,7 @@ This parameter helps hospitals to identify patients of high LOS-risk (patients w
 
 ![download](https://user-images.githubusercontent.com/82984119/190869831-2b7327c7-1629-4cc9-b8ec-a5a21fb1b0ec.png)
 
-#Benefits :
+# Benefits :
 1. Improved health outcomes
 2. Reduction in errors
 3. Improve the accuracy identifying patients at highest LOS.
